@@ -11,8 +11,6 @@ import re
 import os
 import pandas as pd
 
-#python 'C:\Users\ianst\Downloads\IndiceReverso.py' 'C:\Users\ianst\Downloads\dataset'
-
 #Recebe parametro do path do dataset
 path=sys.argv[1]
 
